@@ -1,0 +1,2 @@
+# SyslogAnalyzer
+A couple scripts that use regex to extract data from syslog files. One works sequentially, the other uses the multiprocessing library of Python3 to speed up the processing of the lines.
